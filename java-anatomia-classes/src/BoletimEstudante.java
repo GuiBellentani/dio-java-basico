@@ -1,4 +1,4 @@
-package dayone;
+
 public class BoletimEstudante {
     public static void main(String[] args) {
         double media = 6;
